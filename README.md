@@ -16,7 +16,7 @@ Welcome to my Netflix Frontend Clone project! This repository showcases a pixel-
 
 ## 📬 Contact
 
-Got questions or feedback? Reach out to me at [zeelp2026@gmail.com](mailto:zeelp2026@gmail.com).
+Got questions or feedback? Reach out to me at [email](mailto:zeelp2026@gmail.com).
 
 ---
 
