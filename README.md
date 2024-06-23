@@ -20,6 +20,6 @@ Got questions or feedback? Reach out to me at [zeelp2026@gmail.com](mailto:zeelp
 
 ---
 
-*Created by [Zeel Patel](https://github.com/your-username)*
+*Created by [Zeel Patel](https://github.com/Zeel200)*
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/zeelpatel03/)
