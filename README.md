@@ -12,7 +12,6 @@ Welcome to my Netflix Frontend Clone project! This repository showcases a pixel-
 
 - **HTML**: For structuring the content.
 - **CSS**: For styling and layout, including Flexbox and Grid.
-- **JavaScript**: For interactivity and dynamic content.
 
 ## 📬 Contact
 
